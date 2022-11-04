@@ -12,5 +12,6 @@ public class test {
         System.out.println(str);
 
         System.out.println("I added some changes ");
+        System.out.println("added something else");
     }
 }
